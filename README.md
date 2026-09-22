@@ -14,3 +14,4 @@ Aplicativo que fornece um resumo sobre o filme **Minions** de 2015, além de out
 - ### [Enredo](https://github.com/BrenoHS99/Minions_App/wiki/Pagina-Enredo)
 - ### [Curiosidades](https://github.com/BrenoHS99/Minions_App/wiki/Pagina-Curiosidades)
 - ### [Elenco](https://github.com/BrenoHS99/Minions_App/wiki/Pagina-Elenco)
+- ### [Aplicativo](https://github.com/BrenoHS99/Minions_App/wiki/Aplicativo)
