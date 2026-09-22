@@ -1,0 +1,20 @@
+[
+  {
+    "EnredoTipo": "imagem",
+    "EnredoCaminho": "assets/images/banner_trio.jpg",
+    "EnredoMoldura": true
+  },
+  {
+    "EnredoTipo": "texto",
+    "EnredoTexto": "Minions (2015) conta a origem dos Minions antes de eles conhecerem Gru. A história acompanha Kevin, Stuart e Bob em sua busca por um novo mestre."
+  },
+  {
+    "EnredoTipo": "imagem",
+    "EnredoCaminho": "assets/images/trio_correndo.png",
+    "EnredoMoldura": false
+  },
+  {
+    "EnredoTipo": "texto",
+    "EnredoTexto": "Após chegarem a Nova York, eles descobrem a Expo Vilão e conhecem Scarlet Overkill, passando a trabalhar para ela."
+  }
+]

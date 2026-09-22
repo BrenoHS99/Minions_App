@@ -1,0 +1,56 @@
+[
+  {
+    "CastName": "Pierre Coffin",
+    "CastFunction": "Diretor e voz dos Minions",
+    "CastLink": "https://www.imdb.com/name/nm1853544/",
+    "CastImage": "assets/images/pierre_coffin.jpg"
+  },
+  {
+    "CastName": "Kyle Balda",
+    "CastFunction": "Diretor",
+    "CastLink": "https://www.imdb.com/name/nm0049633/",
+    "CastImage": "assets/images/kyle_balda.jpg"
+  },
+  {
+    "CastName": "Steve Carell",
+    "CastFunction": "Voz de Gru",
+    "CastLink": "https://www.imdb.com/name/nm0136797/",
+    "CastImage": "assets/images/steve_carell.webp"
+  },
+  {
+    "CastName": "Steve Coogan",
+    "CastFunction": "Voz de Professor Flux",
+    "CastLink": "https://www.imdb.com/name/nm0176869/",
+    "CastImage": "assets/images/steve_coogan.jpg"
+  },
+  {
+    "CastName": "Sandra Bullock",
+    "CastFunction": "Voz de Scarlet Overkill",
+    "CastLink": "https://www.imdb.com/name/nm0000113/",
+    "CastImage": "assets/images/sandra_bullock.jpg"
+  },
+  {
+    "CastName": "Jon Hamm",
+    "CastFunction": "Voz de Herb Overkill",
+    "CastLink": "https://www.imdb.com/name/nm0358316/",
+    "CastImage": "assets/images/jon_hamm.jpg"
+  },
+  {
+    "CastName": "Michael Keaton",
+    "CastFunction": "Voz de Walter Nelson",
+    "CastLink": "https://www.imdb.com/name/nm0000474/",
+    "CastImage": "assets/images/michael_keaton.jpg"
+  },
+  {
+    "CastName": "Allison Janney",
+    "CastFunction": "Voz de Madge Nelson",
+    "CastLink": "https://www.imdb.com/name/nm0005049/",
+    "CastImage": "assets/images/allison_janney.jpg"
+  },
+  {
+    "CastName": "Geoffrey Rush",
+    "CastFunction": "Narrador",
+    "CastLink": "https://www.imdb.com/name/nm0001691/",
+    "CastImage": "assets/images/geoffrey_rush.jpg"
+  }
+]

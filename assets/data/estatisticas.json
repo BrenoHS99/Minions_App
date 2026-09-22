@@ -1,0 +1,25 @@
+{
+  "EstatTitulo": "Minions",
+  "EstatCapa": "assets/images/capa_filme.jpg",
+  "EstatDados": [
+    {
+      "DadoIcone": "calendar_month",
+      "DadoRotulo": "Lançamento",
+      "DadoValor": "25/06/2015 (Brasil)"
+    },
+    {
+      "DadoIcone": "timer",
+      "DadoRotulo": "Duração",
+      "DadoValor": "1h 30min 55s"
+    },
+    {
+      "DadoIcone": "business",
+      "DadoRotulo": "Produtoras",
+      "DadoValor": "Illumination Entertainment, Universal Pictures e Illumination Studios Paris"
+    }
+  ],
+  "EstatNotaBananas": 3,
+  "EstatNotaTotal": 5,
+  "EstatNotaImdb": "6,4 / 10  (IMDb)",
+  "EstatSiteOficial": "https://www.illumination.com/movie/minions/"
+}
